@@ -7,6 +7,7 @@ setup(
     url='',
     license='',
     author='hborcher',
+    test_suite="tests",
     author_email='',
     description=''
 )
